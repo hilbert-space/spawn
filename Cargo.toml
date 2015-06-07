@@ -1,0 +1,13 @@
+[package]
+name = "spawn"
+version = "0.0.1"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/stainless-steel/spawn"
+homepage = "https://github.com/stainless-steel/spawn"
+description = """
+Spawn is a fictional character, a graphic novel anti-hero that appears in a
+monthly comic book of the same name published by Image Comics as well as annual
+compilations, mini-series specials written by guest authors and artists and
+numerous cross-over story-lines in other graphic novels.
+"""
